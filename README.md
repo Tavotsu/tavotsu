@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭  Estoy trabajando en proyectos personales con MERN<br>🌱  Me encuentro aprendiendo desarrollo fullstack y Rust<br>🏫  Actualmente estudiando Ing en informatica
+🔭  Estoy trabajando en proyectos web usando `HTML5`,`TailwindCSS`,`JavaScript` y `Spring Boot`  <br>🌱  Me encuentro aprendiendo desarrollo fullstack y Rust<br>🏫  Actualmente estudiando Ing en informatica
 
 
 ## 🌐 Contactame:
