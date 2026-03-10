@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-💻 Actualmente trabajando en proyectos personales.<br>🌱 Me encuentro aprendiendo desarrollo fullstack (con intereses en backend), JavaScript y Rust.<br>🏫 Actualmente estudiando Ingenieria en informatica.<br>📖 Interesado en todo lo relacionado a redes.
+💻 Actualmente buscando oportunidades.<br>🌱 Me encuentro aprendiendo desarrollo fullstack (con intereses en backend), JavaScript y Rust.<br>🏫 Actualmente estudiando Ingenieria en informatica.<br>📖 Interesado en todo lo relacionado a redes.
 
 
 ## 🌐 Contactame:
