@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-💻 Actualmente buscando oportunidades.<br>🌱 Me encuentro haciendo desarrollo fullstack.<br>🏫 Actualmente estudiando Ingenieria en informatica.<br>📖 Siempre buscando la mejor manera de hacer las cosas.
+💻 Mantenedor de BaseSec - SAST para backend<br>🌱 Me encuentro haciendo desarrollo fullstack.<br>🏫 Actualmente estudiando Ingenieria en informatica.<br>📖 Siempre buscando la mejor manera de hacer las cosas.
 
 
 ## 🌐 Contactame:
